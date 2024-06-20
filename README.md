@@ -66,3 +66,9 @@ This project implements a chatbot using the Gemini Pro model, integrated with Go
 ## License 📜
 
 This project is licensed under the MIT License
+
+
+
+https://github.com/AnurupaK/Chatbot_Gemini-pro/assets/114801457/b3514542-c16c-48ca-9d9f-8200c8e1f636
+
+
